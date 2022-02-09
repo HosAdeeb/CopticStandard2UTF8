@@ -1,0 +1,1 @@
+CopticStandard2UTF8
